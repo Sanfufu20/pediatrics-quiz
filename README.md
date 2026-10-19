@@ -1,6 +1,6 @@
 # 兒科練習簿
 
-網站待確認公開後啟用。 [程式碼](https://github.com/Sanfufu20/pediatrics-quiz)
+[開啟網站](https://sanfufu20.github.io/pediatrics-quiz/) · [程式碼](https://github.com/Sanfufu20/pediatrics-quiz)
 
 依原題順序，一題一題完成兒科考古。作答後查看原詳解、觀念補充與參考來源。
 
@@ -40,7 +40,7 @@
 
 可將 `index.html` 放在 GitHub repository 根目錄，於 Settings → Pages 選擇由 `main` 分支根目錄發布。GitHub Pages 提供網址，不需另外購買網域。
 
-預計使用 `main` 分支根目錄發布，目前先保存於私有專案。下載 `index.html` 仍可離線使用；修改並推送到 `main` 後，GitHub Pages 會更新網站。
+此專案使用 `main` 分支根目錄發布。下載 `index.html` 仍可離線使用；修改並推送到 `main` 後，GitHub Pages 會更新網站。
 
 ## 作業規格
 
